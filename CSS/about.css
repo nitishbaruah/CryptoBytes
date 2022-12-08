@@ -1,0 +1,12 @@
+p{
+    margin-left: 4rem;
+}
+p a{
+    margin-right: 2rem;
+}
+section{
+    background-color: antiquewhite;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 5px;
+}
